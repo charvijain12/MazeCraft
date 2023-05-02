@@ -30,5 +30,5 @@ If you find any issues or have any suggestions for improvement, feel free to cre
 
 
 ## License
-This project is licensed under the MIT License - see the [License](https://github.com/footcricket05/Maze-Solver-DAA/blob/main/licence)
+This project is licensed under the MIT License - see the [License](https://github.com/charvijain12/Maze-Solver/blob/main/LICENSE)
  file for details.
