@@ -2,7 +2,7 @@
 
 MazeCraft is a Python program that specializes in finding a path through a maze. It takes an input image of the maze and generates a `.gif` file that vividly illustrates the solution path.
 
-## Getting Started 🏁
+## Getting Started 
 
 To run the program, you'll need to have Python installed on your computer. Follow these steps to get started:
 
@@ -21,7 +21,7 @@ To run the program, you'll need to have Python installed on your computer. Follo
 
 6. The output `.gif` file will be saved in the `./outputs/` directory.
 
-## Limitations 🚧
+## Limitations 
 
 MazeMaestro has a few limitations to be aware of:
 
@@ -29,11 +29,11 @@ MazeMaestro has a few limitations to be aware of:
 
 - The program is designed for solving mazes that start from the top left corner and end at the bottom right corner.
 
-## Contributing 🤝
+## Contributing 
 
 If you encounter any issues or have suggestions for improvements, please feel free to create a pull request or open an issue. Your contributions are welcome!
 
-## License 📜
+## License 
 
 This project is licensed under the MIT License. See the [License](https://github.com/charvijain12/MazeCraft/blob/main/LICENSE) file for more details.
 
