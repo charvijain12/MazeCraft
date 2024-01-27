@@ -1,6 +1,6 @@
 # MazeCraft: Algorithmic Pathfinding 🌀
 
-MazeCraft is a Python program that specializes in finding a path through a maze. It takes an input image of the maze and generates a `.gif` file that vividly illustrates the solution path.
+Welcome MazeCraft is a Python program that specializes in finding a path through a maze. It takes an input image of the maze and generates a `.gif` file that vividly illustrates the solution path.
 
 ## Getting Started 🚀
 
